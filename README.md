@@ -124,14 +124,14 @@ It is a **living document of our builder journey**.
 ## 🧑‍💻 Team
 
 - Akshansh Sharma  
-- (Add teammates here)
 
 ---
 
 ## 📬 Contact
 
 - GitHub Issues for collaboration
-- (Add socials / X / LinkedIn if needed)
+- X - https://x.com/akxh_5
+- Mail - mailto:aksh11ansh@gmail.com
 
 ---
 
